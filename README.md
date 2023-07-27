@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## [Live Demo](https://soumyadeepdutta7.github.io/react-task-app-main/)
+## [Live Demo](https://hrs070.github.io/react-task-app/)
 
 ### `npm run deploy` 
 to push the modified version to gh-pages
